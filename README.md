@@ -10,7 +10,7 @@ This first-hand experience with tech's empowering potential helped me realize it
 If granted the opportunity to join this industry, I aspire to create life-enhancing solutions and contribute to a more inclusive world.
 
 Goals for This Course:
-To gain the technical wherewithal to pursue my goals.
+To gain the technical wherewithal to execute my goals.
 
 My First Python Program:
 print("Hello World!")
