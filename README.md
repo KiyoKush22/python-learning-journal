@@ -13,4 +13,6 @@ Goals for This Course:
 To gain the technical wherewithal to execute my goals.
 
 My First Python Program:
-```Python{print("Hello World!")}```
+```Python
+{print("Hello World!")}
+```
